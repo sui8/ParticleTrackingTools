@@ -1,7 +1,9 @@
 # ParticleTrackingTools
 ## Description
 映像から粒子を選択して追跡するプログラムです。  
-指定時間の追跡、実スケールに変換した追跡距離の算出が可能です。  
+指定時間の追跡、実スケールに変換した追跡距離の算出が可能です。    
+
+配布用データは[こちら](https://github.com/sui8/ParticleTrackingTools/releases/tag/release)からダウンロード
 
 ## Usage
 ### tracker/tracker.py  
